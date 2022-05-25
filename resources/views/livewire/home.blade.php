@@ -6,9 +6,7 @@
             <div class="relative shadow-xl sm:rounded-2xl sm:overflow-hidden">
                 <div class="absolute inset-0">
                     <video
-                    autoplay
-                    loop
-                    muted
+                    playsinline autoplay loop muted
                     class="h-full w-full object-cover"
                   >
                     <source
